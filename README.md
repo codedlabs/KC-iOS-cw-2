@@ -50,9 +50,5 @@ print("My name is \(name)\nmy age is: \(age)")
 
 
 
-
-
-
-آخر موعد لرفع الكود  `git commit` 
-١٦/٠٦/٢٠٢٠
+ 
 </div>
