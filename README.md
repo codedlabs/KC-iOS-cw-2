@@ -22,9 +22,16 @@
 5.  عرف ثابت name واضف اليه قيمة اسمك  
 6.  عرف متغير `height` , `age`, `hobby1`, `hobby2` واضف اليهم معلوماتك و هواياتك.
 6. استخدم `print` لطباعة النص بالاسفل.
+
+
+<div dir="ltr">
+  
 ```Swift
 print("My name is \(name)\nmy age is: \(age)")
 ```
+
+</div>
+
 
 ### تكملة تمرين ١
 
