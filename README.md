@@ -1,27 +1,17 @@
 
 
+
 # <p dir="rtl">
 مقدمة في برنامج xcode </p>
-
-
-
----
-
 
 # <p dir="rtl">
 فيديوهات الدرس</p>
 
 
+* [مقدمة بسيطة ل swiftUI و xcode](https://youtu.be/aPV_wCwHnv0)
 
 
-* 
-[مقدمة بسيطة ل swiftUI و xcode](https://youtu.be/aPV_wCwHnv0)
-
-
-* 
-[مقدمة أعمق لـ xcode ](https://youtu.be/bN8BOwLvdu8) (جزء فقط هو المهم)   
-
----
+* [مقدمة أعمق لـ xcode ](https://youtu.be/bN8BOwLvdu8) (جزء فقط هو المهم)   
 
 
 # 
@@ -30,16 +20,13 @@
 
 
 
-* 
-فتح مشروع في xcode 
+* فتح مشروع في xcode 
 
 
-* 
-التعلم على الـ layout - preview - simulator 
+* التعلم على الـ layout - preview - simulator 
 
 
-* 
-تغير ال Text ليكون 
+* تغير ال Text ليكون 
 
 ```
 Text("Hello my name is Retaj")
@@ -58,8 +45,7 @@ Text("Hello my name is Retaj")
 
 
 
-
 1.افتح مشروع xcode جديد 
 2. تأكد انه SwiftUI 
-3. قم بتغير ال preview لنوع جهازك 
-4. أضف إسمك في النص الموجود في التطبيق 
+4. قم بتغير ال preview لنوع جهازك 
+5. أضف إسمك في النص الموجود في التطبيق 
