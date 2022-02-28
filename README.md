@@ -45,7 +45,8 @@ Text("Hello my name is Retaj")
 ---
 
 <p dir="rtl">
-<strong>تمرين</strong> (this should be in github so just attach a github link)</p>
+<strong>تمرين <a href="https://github.com/kuwaitcodes/ios-cw-1">(github link )</a></strong></p>
+
 
 
 <p dir="rtl">
