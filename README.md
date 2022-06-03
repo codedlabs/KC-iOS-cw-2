@@ -40,6 +40,9 @@
 
  <h1 align="right">التمرين ٢ </h1>
 
+<p dir="rtl">
+<img src="/cw2.png" width="200" alt="alt_text" title="image_tooltip">
+</p>
 
 <p dir="rtl">
 قم بعمل برنامج مواقيت الصلاة كما هو بالصورة</p>
